@@ -1,7 +1,0 @@
-[2021-03-07 15:04:17.655] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/zeeshan/Documents/Programming/python/pythonAPI/Myproject/.vscode'
-[2021-03-07 15:04:27.887] [renderer1] [error] Network Error: Error: Network Error
-    at e.exports (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:7511)
-    at XMLHttpRequest.p.onerror (/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:6478)
-[2021-03-07 15:04:30.607] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
-    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
-    at SimpleURLLoaderWrapper.emit (events.js:315:20)
